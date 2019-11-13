@@ -24,3 +24,5 @@ gensim, nltk, python-crfsuite，（其他sklearn，pandas什么的不列了，�
 3. nltk安好后并不能直接使用，需要在python里执行nltk.download()下载模型和语料，这是必须的，否则无法进行词性标注等任务。
 4. 代码有用到stanford parser，nltk可以调用其接口，但是工具需要自行下载（链接见顶上），
 工程目录下有个空的stanford parser目录，将下载的stanford parser内容全部解压到该目录即可。
+
+* boot.py为程序流程的入口
