@@ -2,6 +2,8 @@
 一个基础且完整的细粒度情感分析（ABSA，Aspect based sentiment analysis）案例，基于semeval-2014 ABSA课题
 --------------------------------------
 
+相关博客地址：https://blog.csdn.net/HapHapYear/article/details/101102870
+
 数据与工具
 ----------------------
 SemEval 2014 ABSA 竞赛数据：https://pan.baidu.com/s/18fsF8Bx4yZxpw9gZy2u9Fg
