@@ -1,5 +1,5 @@
 # ABSA_system
-一个基础且完整的细粒度情感分析（ABSA，Aspect based sentiment analysis）案例
+一个基础且完整的细粒度情感分析（ABSA，Aspect based sentiment analysis）案例，基于semeval-2014 ABSA课题
 --------------------------------------
 
 数据与工具
