@@ -1,0 +1,1 @@
+请将stanford parser解压到此目录。
