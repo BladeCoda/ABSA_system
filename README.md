@@ -5,19 +5,15 @@
 数据与工具
 ----------------------
 SemEval 2014 ABSA 竞赛数据：https://pan.baidu.com/s/18fsF8Bx4yZxpw9gZy2u9Fg
-
 原始数据地址：http://alt.qcri.org/semeval2014/task4/index.php?id=data-and-tools
 
 yelp 餐厅评论语料：https://pan.baidu.com/s/12h7xCFgnlxZX2CWSlmhlBg
-
 原始数据地址：https://www.yelp.com/dataset
 
 amzon电子产品评论语料：https://pan.baidu.com/s/1emRDSdwWYNZ2RePboYq85w
-
 原始数据地址： http://jmcauley.ucsd.edu/data/amazon/
 
 stanford parser网盘备份(本文版本)：https://pan.baidu.com/s/17xLGWRqHLvA827jpaQmhEQ
-
 原始下载地址（最新）：https://nlp.stanford.edu/software/lex-parser.shtml
 
 注意项
